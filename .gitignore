@@ -1,8 +1,0 @@
-.gitignore
-.DS_Store
-poetry.lock
-pyproject.toml
-dataset/dataset-clean.csv
-dataset/dataset-clean-v2.csv
-exercice/
-memo/
